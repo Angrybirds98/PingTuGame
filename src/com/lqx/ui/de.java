@@ -12,5 +12,6 @@ public class de {
         System.out.println("哈哈");
         System.out.println("哈哈2");
         System.out.println("哈哈3");
+        System.out.println("哈哈4");
     }
 }
