@@ -10,5 +10,6 @@ package com.lqx.ui;
 public class De {
     public static void main(String[] args) {
         System.out.println("master-commit");
+        System.out.println("hot-fix commit");
     }
 }
