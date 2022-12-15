@@ -12,5 +12,6 @@ public class De {
         System.out.println("master-commit");
         System.out.println("hot-fix commit");
         System.out.println("my commit");
+        System.out.println("my commit");
     }
 }
